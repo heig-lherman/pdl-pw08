@@ -1,0 +1,18 @@
+Task;Optimiste;Attendu;Pessimiste
+Concevoir et implémenter un algorithme pour détecter les véhicules en sens inverse dans un délai de 2 secondes.;20;30;45
+Créer un guide d'installation rapide et une formation pour les techniciens, permettant l'installation sur divers véhicules en moins d'une heure.;15;25;35
+Développer un système de gestion de l'énergie pour assurer une autonomie de 24 heures après une charge complète.;20;30;40
+Programmer des interfaces de programmation applicatives (API) sécurisées pour la transmission sécurisée et anonymisée des données.;25;35;45
+Adapter le dispositif pour qu'il détecte avec précision les véhicules à différentes vitesses et sur divers types de routes.;18;28;38
+Réaliser des tests pour s'assurer que l'installation du dispositif n'obstrue pas la vision ni ne gêne la conduite.;12;20;30
+Mettre en place un système pour surveiller l'état des dispositifs installés avec des rapports de fonctionnement quotidiens.;15;25;35
+Programmer des fonctionnalités de mise à jour automatique du logiciel avec des cycles de mise à jour planifiés tous les trois mois.;12;20;30
+Mettre en œuvre un protocole de communication fiable et sécurisé pour envoyer les données collectées par le dispositif IoT vers la plateforme web, avec des mécanismes de chiffrement, anonymisation, et validation des données, ainsi que des intervalles d'envoi réguliers.;20;30;40
+Réaliser des tests pour confirmer la capacité du dispositif à fonctionner dans des températures variant de -20°C à 50°C.;12;20;30
+Développer une interface utilisateur intuitive pour la plateforme web, permettant une navigation facile sans formation préalable.;25;35;45
+Implémenter une fonctionnalité permettant d'exporter les données collectées sous forme de fichiers CSV en moins de 2 minutes.;10;15;20
+Développer une carte interactive sur la plateforme web pour afficher les statistiques des dépassements dangereux.;15;25;35
+Établir un calendrier pour la maintenance régulière et des audits de sécurité biannuels des API et des dispositifs.;5;10;15
+Vérifier la conformité annuelle du dispositif avec les réglementations européennes en vigueur.;5;10;20
+Produire un jeu complet de documentation technique, incluant des instructions d'installation et de maintenance.;10;20;30
+Développer un programme de formation pour les techniciens d'installation et le support technique.;10;15;25
